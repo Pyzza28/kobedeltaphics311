@@ -14,7 +14,7 @@ func main() {
 		fmt.Println("| CodeForces Problem Set |")
 		fmt.Println("|     Kobedelta Phi      |")
 		fmt.Println("+========================+")
-		fmt.Println("|      - MAIN MENU -     |")
+		fmt.Println("|       MAIN MENU        |")
 		fmt.Println("|[1] Word Capitalization |")
 		fmt.Println("|[2] Translation         |")
 		fmt.Println("|[3] Problem 71A         |")
