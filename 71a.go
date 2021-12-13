@@ -7,7 +7,7 @@ import (
 	"unicode"
 )
 
-//sample push
+//gumana ka naman na ah yawa
 
 func main() {
 	for {
