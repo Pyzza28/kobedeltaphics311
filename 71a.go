@@ -7,7 +7,8 @@ import (
 	"unicode"
 )
 
-//sample comment push
+//sample push
+
 func main() {
 	for {
 		var choice int
