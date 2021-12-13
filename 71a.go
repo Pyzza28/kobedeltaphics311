@@ -18,7 +18,7 @@ func main() {
 		fmt.Println("+========================+")
 		fmt.Println("|       MAIN MENU        |")
 		fmt.Println("|[1] Word Capitalization |")
-		fmt.Println("|[2] Translation         |")
+		fmt.Println("|[2] TRANSLATION         |")
 		fmt.Println("|[3] Problem 71A         |")
 		fmt.Println("|[4] Exit                |")
 		fmt.Println("+========================+")
